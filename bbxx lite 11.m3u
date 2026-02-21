@@ -1,0 +1,1042 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="" tvg-logo="",20260220 09:56:31
+https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV2
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV6
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV2
+http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV2
+http://23.237.228.134/live5/CCTV2.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://23.237.228.134/live5/CCTV3.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://23.237.228.134/live5/CCTV5.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV5+
+http://23.237.228.134/live5/CCTV5p.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://23.237.228.134/live5/CCTV7.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV10
+http://23.237.228.134/live5/CCTV10.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV12
+http://23.237.228.134/live3/CCTV12.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV14
+http://23.237.228.134/live3/CCTV14.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://23.237.228.134/live3/CCTV15.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://23.237.228.134/live3/CCTV17.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://43.251.226.89:8080/play/1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV2
+http://43.251.226.89:8080/play/2.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://43.251.226.89:8080/play/3.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV4
+http://43.251.226.89:8080/play/4.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://43.251.226.89:8080/play/5.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV5+
+http://43.251.226.89:8080/play/6.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV6
+http://43.251.226.89:8080/play/7.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://43.251.226.89:8080/play/8.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV8
+http://43.251.226.89:8080/play/9.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://43.251.226.89:8080/play/10.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV10
+http://43.251.226.89:8080/play/11.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://43.251.226.89:8080/play/12.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV12
+http://43.251.226.89:8080/play/13.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://43.251.226.89:8080/play/14.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV14
+http://43.251.226.89:8080/play/15.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://43.251.226.89:8080/play/16.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://43.251.226.89:8080/play/17.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://112.46.105.20:8009/hls/501/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV2
+http://112.46.105.20:8009/hls/502/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://112.46.105.20:8009/hls/3/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV4
+http://112.46.105.20:8009/hls/4/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://112.46.105.20:8009/hls/503/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV6
+http://112.46.105.20:8009/hls/6/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://112.46.105.20:8009/hls/504/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV8
+http://112.46.105.20:8009/hls/8/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://112.46.105.20:8009/hls/509/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV10
+http://112.46.105.20:8009/hls/506/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CCTV12
+http://112.46.105.20:8009/hls/507/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV2
+http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV4
+http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV6
+http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV8
+http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV10
+http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV12
+http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",CCTV14
+http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="" tvg-logo="",NOW新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",VIUTV6
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="" tvg-logo="",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="" tvg-logo="",astro-QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="" tvg-logo="",astroAec
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="" tvg-logo="",astroAod
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="" tvg-logo="",astroAod
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+#EXTINF:-1 group-title="" tvg-logo="",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
+#EXTINF:-1 group-title="" tvg-logo="",MoMoTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="" tvg-logo="",Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",TVN
+https://stream1.freetv.fun/tvn-3.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",ABC News Australia
+https://stream1.freetv.fun/abc-news-australia-1.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",ABC News Australia
+https://stream1.freetv.fun/abc-news-australia-2.ctv
+#EXTINF:-1 group-title="" tvg-logo="",xing-ti-yu-6
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://144.255.16.170:6688/udp/239.21.1.120:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.1:8008$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://114.100.195.110:4022/rtp/238.1.78.166:7200$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.33:8002$北京电信12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.53:8060$北京电信13
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.81:8176$北京电信14
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.126:8002$北京电信15
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.194:4120$北京电信16
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.80.79:1688/rtp/225.1.8.210:8068$北京电信17
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.1:8008$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://106.116.241.106:9999/rtp/239.254.200.45:8008$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.33:8002$北京电信22
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.53:8060$北京电信23
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.81:8176$北京电信24
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.126:8002$北京电信25
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.194:4120$北京电信26
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.58:4000/rtp/225.1.8.210:8068$北京电信27
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.1:8008$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.33:8002$北京电信32
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.53:8060$北京电信33
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.81:8176$北京电信34
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.126:8002$北京电信35
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.194:4120$北京电信36
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+http://115.171.216.84:4000/rtp/225.1.8.210:8068$北京电信37
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://114.254.33.207:18888/rtp/239.3.1.60:8084$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://144.255.16.170:6688/udp/239.21.1.151:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://113.119.25.56:58888/udp/239.77.1.158:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://115.171.80.79:1688/rtp/225.1.8.2:8084$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://114.100.195.110:4022/rtp/238.1.78.235:7752$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://115.171.216.58:4000/rtp/225.1.8.2:8084$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://106.116.241.106:9999/rtp/239.254.200.158:6000$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
+http://115.171.216.84:4000/rtp/225.1.8.2:8084$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://114.254.33.207:18888/rtp/239.3.1.172:8001$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://144.255.16.170:6688/udp/239.21.2.45:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://113.119.25.56:58888/udp/239.77.0.169:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://115.171.80.79:1688/rtp/225.1.8.88:8000$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://114.100.195.110:4022/rtp/238.1.78.170:7232$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://115.171.216.58:4000/rtp/225.1.8.88:8000$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://106.116.241.106:9999/rtp/239.254.201.152:7205$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+http://115.171.216.84:4000/rtp/225.1.8.88:8000$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://114.254.33.207:18888/rtp/239.3.1.105:8092$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://144.255.16.170:6688/udp/239.21.1.154:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://113.119.25.56:58888/udp/239.77.1.163:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://115.171.80.79:1688/rtp/225.1.8.4:8092$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://114.100.195.110:4022/rtp/238.1.78.236:7760$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://144.255.16.170:6688/udp/239.21.2.29:5002$山东电信12
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://115.171.216.58:4000/rtp/225.1.8.4:8092$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://106.116.241.106:9999/rtp/239.254.200.190:6307$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
+http://115.171.216.84:4000/rtp/225.1.8.4:8092$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4oz.png",CCTV4欧洲
+http://114.254.33.207:18888/rtp/239.3.1.213:4220$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4oz.png",CCTV4欧洲
+http://144.255.16.170:6688/udp/239.21.2.28:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4oz.png",CCTV4欧洲
+http://106.116.241.106:9999/rtp/239.254.201.205:4220$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4美洲
+http://114.254.33.207:18888/rtp/239.3.1.214:4220$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4美洲
+http://106.116.241.106:9999/rtp/239.254.201.206:4220$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://114.254.33.207:18888/rtp/239.3.1.173:8001$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://144.255.16.170:6688/udp/239.21.2.46:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://113.119.25.56:58888/udp/239.77.0.170:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://115.171.80.79:1688/rtp/225.1.8.89:8000$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://114.100.195.110:4022/rtp/238.1.78.171:7240$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://115.171.216.58:4000/rtp/225.1.8.89:8000$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://106.116.241.106:9999/rtp/239.254.201.153:7206$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+http://115.171.216.84:4000/rtp/225.1.8.89:8000$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://114.254.33.207:18888/rtp/239.3.1.130:8004$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://144.255.16.170:6688/udp/239.21.1.142:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://113.119.25.56:58888/udp/239.77.0.87:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://115.171.80.79:1688/rtp/225.1.8.20:8004$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://114.100.195.110:4022/rtp/238.1.78.237:7768$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://113.119.25.56:58888/udp/239.77.1.31:5146$广东电信12
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://115.171.216.58:4000/rtp/225.1.8.20:8004$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://106.116.241.106:9999/rtp/239.254.200.46:8004$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV5+
+http://115.171.216.84:4000/rtp/225.1.8.20:8004$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://114.254.33.207:18888/rtp/239.3.1.174:8001$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://144.255.16.170:6688/udp/239.21.2.47:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://113.119.25.56:58888/udp/239.77.0.171:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://115.171.80.79:1688/rtp/225.1.8.84:8000$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://114.100.195.110:4022/rtp/238.1.78.172:7248$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://115.171.216.58:4000/rtp/225.1.8.84:8000$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://106.116.241.106:9999/rtp/239.254.201.154:7207$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
+http://115.171.216.84:4000/rtp/225.1.8.84:8000$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://114.254.33.207:18888/rtp/239.3.1.61:8104$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://144.255.16.170:6688/udp/239.21.1.152:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://113.119.25.56:58888/udp/239.77.0.138:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://115.171.80.79:1688/rtp/225.1.8.7:8104$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://114.100.195.110:4022/rtp/238.1.78.239:7784$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://115.171.216.58:4000/rtp/225.1.8.7:8104$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://106.116.241.106:9999/rtp/239.254.200.159:6000$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+http://115.171.216.84:4000/rtp/225.1.8.7:8104$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://114.254.33.207:18888/rtp/239.3.1.175:8001$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://144.255.16.170:6688/udp/239.21.2.48:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://113.119.25.56:58888/udp/239.77.0.172:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://115.171.80.79:1688/rtp/225.1.8.85:8000$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://114.100.195.110:4022/rtp/238.1.78.173:7256$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://115.171.216.58:4000/rtp/225.1.8.85:8000$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://106.116.241.106:9999/rtp/239.254.201.155:7208$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
+http://115.171.216.84:4000/rtp/225.1.8.85:8000$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://114.254.33.207:18888/rtp/239.3.1.62:8112$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://144.255.16.170:6688/udp/239.21.1.153:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://113.119.25.56:58888/udp/239.77.0.135:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://115.171.80.79:1688/rtp/225.1.8.9:8112$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://114.100.195.110:4022/rtp/238.1.78.240:7792$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://115.171.216.58:4000/rtp/225.1.8.9:8112$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://106.116.241.106:9999/rtp/239.254.200.59:8112$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+http://115.171.216.84:4000/rtp/225.1.8.9:8112$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://114.254.33.207:18888/rtp/239.3.1.63:8116$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://144.255.16.170:6688/udp/239.21.1.155:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://113.119.25.56:58888/udp/239.77.0.134:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://115.171.80.79:1688/rtp/225.1.8.10:8116$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://114.100.195.110:4022/rtp/238.1.78.241:7800$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://115.171.216.58:4000/rtp/225.1.8.10:8116$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://106.116.241.106:9999/rtp/239.254.200.160:6000$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
+http://115.171.216.84:4000/rtp/225.1.8.10:8116$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://114.254.33.207:18888/rtp/239.3.1.152:8120$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://144.255.16.170:6688/udp/239.21.2.2:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://113.119.25.56:58888/udp/239.77.1.238:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://115.171.80.79:1688/rtp/225.1.8.73:8120$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://114.100.195.110:4022/rtp/238.1.78.206:7502$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://115.171.216.58:4000/rtp/225.1.8.73:8120$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://106.116.241.106:9999/rtp/239.254.201.123:8120$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+http://115.171.216.84:4000/rtp/225.1.8.73:8120$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://114.254.33.207:18888/rtp/239.3.1.64:8124$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://144.255.16.170:6688/udp/239.21.1.156:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://113.119.25.56:58888/udp/239.77.0.136:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://115.171.80.79:1688/rtp/225.1.8.12:8124$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://114.100.195.110:4022/rtp/238.1.78.242:7808$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://115.171.216.58:4000/rtp/225.1.8.12:8124$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://106.116.241.106:9999/rtp/239.254.200.161:6000$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
+http://115.171.216.84:4000/rtp/225.1.8.12:8124$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://114.254.33.207:18888/rtp/239.3.1.124:8128$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://144.255.16.170:6688/udp/239.21.2.3:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://113.119.25.56:58888/udp/239.253.43.196:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://115.171.80.79:1688/rtp/225.1.8.168:8130$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://114.100.195.110:4022/rtp/238.1.79.35:4392$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://115.171.216.58:4000/rtp/225.1.8.168:8130$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://106.116.241.106:9999/rtp/239.254.200.9:8264$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+http://115.171.216.84:4000/rtp/225.1.8.168:8130$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://114.254.33.207:18888/rtp/239.3.1.65:8132$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://144.255.16.170:6688/udp/239.21.1.157:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://113.119.25.56:58888/udp/239.77.1.161:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://115.171.80.79:1688/rtp/225.1.8.14:8132$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://114.100.195.110:4022/rtp/238.1.78.243:7816$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://115.171.216.58:4000/rtp/225.1.8.14:8132$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://106.116.241.106:9999/rtp/239.254.200.162:6000$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
+http://115.171.216.84:4000/rtp/225.1.8.14:8132$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://114.254.33.207:18888/rtp/239.3.1.153:8136$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://144.255.16.170:6688/udp/239.21.2.4:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://113.119.25.56:58888/udp/239.77.1.239:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://115.171.80.79:1688/rtp/225.1.8.74:8136$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://114.100.195.110:4022/rtp/238.1.78.222:7648$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://115.171.216.58:4000/rtp/225.1.8.74:8136$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://106.116.241.106:9999/rtp/239.254.201.124:8136$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+http://115.171.216.84:4000/rtp/225.1.8.74:8136$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV16
+http://114.254.33.207:18888/rtp/239.3.1.184:8001$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV16
+http://113.119.25.56:58888/udp/239.77.0.165:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://114.254.33.207:18888/rtp/239.3.1.151:8144$北京联通11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://144.255.16.170:6688/udp/239.21.1.186:5002$山东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://113.119.25.56:58888/udp/239.77.1.121:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://115.171.80.79:1688/rtp/225.1.8.17:8144$北京电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://114.100.195.110:4022/rtp/238.1.78.178:7296$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://115.171.216.58:4000/rtp/225.1.8.17:8144$北京电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://106.116.241.106:9999/rtp/239.254.201.120:8144$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
+http://115.171.216.84:4000/rtp/225.1.8.17:8144$北京电信31
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4K.png",CCTV4K
+http://113.119.25.56:58888/udp/239.77.0.194:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4K.png",CCTV4K
+http://114.100.195.110:4022/rtp/238.1.78.137:6968$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4K.png",CCTV4K
+http://113.119.25.56:58888/udp/239.77.0.174:5146$广东电信12
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4K.png",CCTV4K
+http://106.116.241.106:9999/rtp/239.254.201.67:6000$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",兵器科技
+http://113.119.25.56:58888/udp/239.253.43.9:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",兵器科技
+http://114.100.195.110:4022/rtp/238.1.79.56:4584$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",兵器科技
+http://106.116.241.106:9999/rtp/239.254.201.225:7249$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云音乐
+http://113.119.25.56:58888/udp/239.253.43.6:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云音乐
+http://114.100.195.110:4022/rtp/238.1.79.64:4648$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云音乐
+http://106.116.241.106:9999/rtp/239.254.201.221:7259$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云足球
+http://113.119.25.56:58888/udp/239.253.43.14:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云足球
+http://114.100.195.110:4022/rtp/238.1.79.57:4592$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云足球
+http://106.116.241.106:9999/rtp/239.254.201.222:7251$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云剧场
+http://113.119.25.56:58888/udp/239.253.43.16:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云剧场
+http://114.100.195.110:4022/rtp/238.1.79.62:4632$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",风云剧场
+http://106.116.241.106:9999/rtp/239.254.201.219:7257$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",怀旧剧场
+http://113.119.25.56:58888/udp/239.253.43.5:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",怀旧剧场
+http://114.100.195.110:4022/rtp/238.1.79.61:4624$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",怀旧剧场
+http://106.116.241.106:9999/rtp/239.254.201.220:7256上海$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",第一剧场
+http://113.119.25.56:58888/udp/239.253.43.15:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",第一剧场
+http://114.100.195.110:4022/rtp/238.1.79.63:4640$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",第一剧场
+http://106.116.241.106:9999/rtp/239.254.201.218:7258$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",女性时尚
+http://113.119.25.56:58888/udp/239.253.43.8:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",女性时尚
+http://114.100.195.110:4022/rtp/238.1.79.55:4576$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",女性时尚
+http://106.116.241.106:9999/rtp/239.254.201.228:7255$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",世界地理
+http://113.119.25.56:58888/udp/239.253.43.7:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",世界地理
+http://114.100.195.110:4022/rtp/238.1.79.60:4616$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",世界地理
+http://106.116.241.106:9999/rtp/239.254.201.226:7254$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",央视台球
+http://113.119.25.56:58888/udp/239.253.43.11:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",央视台球
+http://114.100.195.110:4022/rtp/238.1.79.59:4608$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",央视台球
+http://106.116.241.106:9999/rtp/239.254.201.171:7176$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",高尔夫网球
+http://113.119.25.56:58888/udp/239.253.43.12:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",高尔夫网球
+http://114.100.195.110:4022/rtp/238.1.79.58:4600$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",高尔夫网球
+http://106.116.241.106:9999/rtp/239.254.201.223:7252$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",央视文化精品
+http://113.119.25.56:58888/udp/239.253.43.13:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",央视文化精品
+http://114.100.195.110:4022/rtp/238.1.79.54:4568$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",央视文化精品
+http://106.116.241.106:9999/rtp/239.254.201.229:7260$河北电信21
+#EXTINF:-1 group-title="央视频道" tvg-logo="",电视指南
+http://113.119.25.56:58888/udp/239.253.43.10:5146$广东电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",电视指南
+http://114.100.195.110:4022/rtp/238.1.79.53:4560$安徽电信11
+#EXTINF:-1 group-title="央视频道" tvg-logo="",电视指南
+http://106.116.241.106:9999/rtp/239.254.201.217:7250$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://114.254.33.207:18888/rtp/239.3.1.132:8012$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://144.255.16.170:6688/udp/239.21.1.158:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://113.119.25.56:58888/udp/239.77.1.5:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://115.171.80.79:1688/udp/225.1.8.41:8012$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://114.100.195.110:4022/rtp/238.1.78.160:7152$安徽电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://115.171.216.58:4000/udp/225.1.8.41:8012$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://106.116.241.106:9999/rtp/239.254.200.48:8012$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://115.171.216.84:4000/udp/225.1.8.41:8012$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://114.254.33.207:18888/rtp/239.3.1.137:8036$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://144.255.16.170:6688/udp/239.21.1.90:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://113.119.25.56:58888/udp/239.77.1.33:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://115.171.80.79:1688/udp/225.1.8.46:8036$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://114.100.195.110:4022/rtp/238.1.78.164:7184$安徽电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://115.171.216.58:4000/udp/225.1.8.46:8036$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://106.116.241.106:9999/rtp/239.254.200.53:8036$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://115.171.216.84:4000/udp/225.1.8.46:8036$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://114.254.33.207:18888/rtp/239.3.1.136:8032$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://144.255.16.170:6688/udp/239.21.1.111:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://113.119.25.56:58888/udp/239.77.1.218:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://115.171.80.79:1688/udp/225.1.8.45:8032$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://114.100.195.110:4022/rtp/238.1.78.163:7176$安徽电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://115.171.216.58:4000/udp/225.1.8.45:8032$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://106.116.241.106:9999/rtp/239.254.200.52:8032$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Dongfang.png",东方卫视
+http://115.171.216.84:4000/udp/225.1.8.45:8032$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://114.254.33.207:18888/rtp/239.3.1.241:8000$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://144.255.16.170:6688/udp/239.21.1.88:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://113.119.25.56:58888/udp/239.77.1.4:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://115.171.80.79:1688/rtp/225.1.8.21:8002$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://114.100.195.110:4022/rtp/238.1.78.162:7168$安徽电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://113.119.25.56:58888/udp/239.77.1.151:5146$广东电信12
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://115.171.216.58:4000/rtp/225.1.8.21:8002$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://106.116.241.106:9999/rtp/239.254.200.47:8024$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
+http://115.171.216.84:4000/rtp/225.1.8.21:8002$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://114.254.33.207:18888/rtp/239.3.1.142:8048$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://144.255.16.170:6688/udp/239.21.1.92:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://113.119.25.56:58888/udp/239.77.1.19:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://115.171.80.79:1688/udp/225.1.8.49:8048$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://114.100.195.110:4022/rtp/238.1.78.161:7160$安徽电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://113.119.25.56:58888/udp/239.77.1.152:5146$广东电信12
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://113.119.25.56:58888/udp/239.77.0.166:5146$广东电信13
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://115.171.216.58:4000/udp/225.1.8.49:8048$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://106.116.241.106:9999/rtp/239.254.200.56:8048$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
+http://115.171.216.84:4000/udp/225.1.8.49:8048$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Shandongjy.png",山东教育卫视
+http://114.254.33.207:18888/rtp/239.3.1.52:4120$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Shandongjy.png",山东教育卫视
+http://144.255.16.170:6688/udp/239.21.1.169:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Shandongjy.png",山东教育卫视
+http://115.171.80.79:1688/rtp/225.1.8.190:4120$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Shandongjy.png",山东教育卫视
+http://115.171.216.58:4000/rtp/225.1.8.190:4120$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Shandongjy.png",山东教育卫视
+http://106.116.241.106:9999/rtp/239.254.200.247:4120$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/Shandongjy.png",山东教育卫视
+http://115.171.216.84:4000/rtp/225.1.8.190:4120$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://114.254.33.207:18888/rtp/239.3.1.57:8152$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://144.255.16.170:6688/udp/239.21.2.7:5002$山东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://113.119.25.56:58888/udp/239.77.1.222:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://115.171.80.79:1688/udp/225.1.8.32:8152$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://114.100.195.110:4022/rtp/238.1.78.158:7136$安徽电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://115.171.216.58:4000/udp/225.1.8.32:8152$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://106.116.241.106:9999/rtp/239.254.200.225:6259$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育1台
+http://115.171.216.84:4000/udp/225.1.8.32:8152$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育2台
+http://114.254.33.207:18888/rtp/239.3.1.54:4120$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育2台
+http://115.171.80.79:1688/rtp/225.1.8.193:4120$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育2台
+http://115.171.216.58:4000/rtp/225.1.8.193:4120$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育2台
+http://106.116.241.106:9999/rtp/239.254.200.226:6260$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育2台
+http://115.171.216.84:4000/rtp/225.1.8.193:4120$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育4台
+http://114.254.33.207:18888/rtp/239.3.1.56:4120$北京联通11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育4台
+http://113.119.25.56:58888/udp/239.253.43.40:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育4台
+http://115.171.80.79:1688/rtp/225.1.8.195:4120$北京电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育4台
+http://115.171.216.58:4000/rtp/225.1.8.195:4120$北京电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育4台
+http://106.116.241.106:9999/rtp/239.254.200.227:6261$河北电信21
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",中国教育4台
+http://115.171.216.84:4000/rtp/225.1.8.195:4120$北京电信31
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/zqjy.png",早期教育
+http://113.119.25.56:58888/udp/239.77.0.180:5146$广东电信11
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/zqjy.png",早期教育
+http://106.116.241.106:9999/rtp/239.254.201.230:7253$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘电影
+http://114.254.33.207:18888/rtp/239.3.1.250:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘电影
+http://115.171.80.79:1688/rtp/225.1.8.38:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘电影
+http://115.171.216.58:4000/rtp/225.1.8.38:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘电影
+http://115.171.216.84:4000/rtp/225.1.8.38:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘剧场
+http://114.254.33.207:18888/rtp/239.3.1.95:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘剧场
+http://115.171.80.79:1688/rtp/225.1.8.37:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘剧场
+http://115.171.216.58:4000/rtp/225.1.8.37:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘剧场
+http://115.171.216.84:4000/rtp/225.1.8.37:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘4K
+http://114.254.33.207:18888/rtp/239.3.1.249:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘4K
+http://115.171.80.79:1688/rtp/225.1.8.211:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘4K
+http://115.171.216.58:4000/rtp/225.1.8.211:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘4K
+http://115.171.216.84:4000/rtp/225.1.8.211:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘娱乐
+http://114.254.33.207:18888/rtp/239.3.1.100:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘娱乐
+http://115.171.80.79:1688/rtp/225.1.8.61:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘娱乐
+http://115.171.216.58:4000/rtp/225.1.8.61:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘娱乐
+http://115.171.216.84:4000/rtp/225.1.8.61:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘BABY
+http://114.254.33.207:18888/rtp/239.3.1.238:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘BABY
+http://115.171.80.79:1688/rtp/225.1.8.36:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘BABY
+http://115.171.216.58:4000/rtp/225.1.8.36:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘BABY
+http://115.171.216.84:4000/rtp/225.1.8.36:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘萌宠
+http://114.254.33.207:18888/rtp/239.3.1.102:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘萌宠
+http://115.171.80.79:1688/rtp/225.1.8.63:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘萌宠
+http://115.171.216.58:4000/rtp/225.1.8.63:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",淘萌宠
+http://115.171.216.84:4000/rtp/225.1.8.63:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",重温经典
+http://115.171.80.79:1688/rtp/225.1.8.39:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",重温经典
+http://115.171.216.58:4000/rtp/225.1.8.39:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",重温经典
+http://115.171.216.84:4000/rtp/225.1.8.39:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",凤凰卫视中文台
+http://106.116.241.106:9999/rtp/239.254.201.2:5226$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",凤凰卫视资讯台
+http://106.116.241.106:9999/rtp/239.254.201.3:5227$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",凤凰卫视电影台
+http://106.116.241.106:9999/rtp/239.254.201.1:5214$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://114.254.33.207:18888/rtp/239.3.1.58:8156$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://144.255.16.170:6688/udp/239.21.1.170:5002$山东电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://115.171.80.79:1688/rtp/225.1.8.31:8156$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://114.100.195.110:4022/rtp/238.1.79.9:4184$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://115.171.216.58:4000/rtp/225.1.8.31:8156$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://106.116.241.106:9999/rtp/239.254.200.189:6293$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://115.171.216.84:4000/rtp/225.1.8.31:8156$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",纪实科教
+http://114.254.33.207:18888/rtp/239.3.1.115:8000$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",纪实科教
+http://144.255.16.170:6688/udp/239.21.1.172:5002$山东电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",纪实科教
+http://115.171.80.79:1688/udp/225.1.8.105:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",纪实科教
+http://115.171.216.58:4000/udp/225.1.8.105:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",纪实科教
+http://106.116.241.106:9999/rtp/239.254.200.188:6311$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",纪实科教
+http://115.171.216.84:4000/udp/225.1.8.105:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩青少
+http://114.254.33.207:18888/rtp/239.3.1.127:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩青少
+http://113.119.25.56:58888/udp/239.77.1.22:5146$广东电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩竞技
+http://114.254.33.207:18888/rtp/239.3.1.125:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩篮球
+http://114.254.33.207:18888/rtp/239.3.1.126:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩篮球
+http://113.119.25.56:58888/udp/239.77.1.21:5146$广东电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩广场舞
+http://114.254.33.207:18888/rtp/239.3.1.128:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan11.png",快乐垂钓
+http://114.254.33.207:18888/rtp/239.3.1.164:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan11.png",快乐垂钓
+http://115.171.80.79:1688/rtp/225.1.8.71:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan11.png",快乐垂钓
+http://114.100.195.110:4022/rtp/238.1.79.31:4360$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan11.png",快乐垂钓
+http://115.171.216.58:4000/rtp/225.1.8.71:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan11.png",快乐垂钓
+http://106.116.241.106:9999/rtp/239.254.200.229:6257$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVLogo/img/Hunan11.png",快乐垂钓
+http://115.171.216.84:4000/rtp/225.1.8.71:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",茶频道
+http://114.254.33.207:18888/rtp/239.3.1.165:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",茶频道
+http://115.171.80.79:1688/rtp/225.1.8.72:8002$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",茶频道
+http://114.100.195.110:4022/rtp/238.1.79.30:4352$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",茶频道
+http://115.171.216.58:4000/rtp/225.1.8.72:8002$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",茶频道
+http://106.116.241.106:9999/rtp/239.254.200.228:6258$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",茶频道
+http://115.171.216.84:4000/rtp/225.1.8.72:8002$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",天元围棋
+http://106.116.241.106:9999/rtp/239.254.201.156:6270$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",梨园频道
+http://106.116.241.106:9999/rtp/239.254.201.231:7228$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",文物宝库
+http://106.116.241.106:9999/rtp/239.254.201.227:7230$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/wssj.png",武术世界
+http://106.116.241.106:9999/rtp/239.254.201.224:7229$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",乐游
+http://114.100.195.110:4022/rtp/238.1.78.151:7080$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",乐游
+http://106.116.241.106:9999/rtp/239.254.201.200:6356$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",生活时尚
+http://114.100.195.110:4022/rtp/238.1.78.155:7112$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",生活时尚
+http://106.116.241.106:9999/rtp/239.254.201.166:6359$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/dsjc.png",都市剧场
+http://114.100.195.110:4022/rtp/238.1.78.74:6464$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/dsjc.png",都市剧场
+http://106.116.241.106:9999/rtp/239.254.201.167:6360$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",欢笑剧场
+http://106.116.241.106:9999/rtp/239.254.201.164:6355$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/yxfy.png",游戏风云
+http://114.100.195.110:4022/rtp/238.1.78.81:6520$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/yxfy.png",游戏风云
+http://106.116.241.106:9999/rtp/239.254.201.163:6354$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",金色学堂
+http://114.100.195.110:4022/rtp/238.1.78.76:6480$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",金色学堂
+http://106.116.241.106:9999/rtp/239.254.201.182:7227$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/dmxc.png",动漫秀场
+http://114.100.195.110:4022/rtp/238.1.78.154:7104$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/dmxc.png",动漫秀场
+http://106.116.241.106:9999/rtp/239.254.201.165:6358$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/kakushaoer.png",卡酷少儿
+http://114.254.33.207:18888/rtp/239.3.1.189:8000$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/kakushaoer.png",卡酷少儿
+http://115.171.80.79:1688/udp/225.1.8.35:8000$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/kakushaoer.png",卡酷少儿
+http://114.100.195.110:4022/rtp/238.1.78.97:6648$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/kakushaoer.png",卡酷少儿
+http://115.171.216.58:4000/udp/225.1.8.35:8000$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/kakushaoer.png",卡酷少儿
+http://106.116.241.106:9999/rtp/239.254.200.91:9248$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/kakushaoer.png",卡酷少儿
+http://115.171.216.84:4000/udp/225.1.8.35:8000$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://114.254.33.207:18888/rtp/239.3.1.51:9252$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://115.171.80.79:1688/rtp/225.1.8.163:9252$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://114.100.195.110:4022/rtp/238.1.78.100:6672$安徽电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://115.171.216.58:4000/rtp/225.1.8.163:9252$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://106.116.241.106:9999/rtp/239.254.200.92:9252$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://115.171.216.84:4000/rtp/225.1.8.163:9252$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",优漫卡通
+http://106.116.241.106:9999/rtp/239.254.201.203:7178$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",嘉佳卡通
+http://114.254.33.207:18888/rtp/239.3.1.147:9268$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",嘉佳卡通
+http://115.171.80.79:1688/rtp/225.1.8.170:9268$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",嘉佳卡通
+http://115.171.216.58:4000/rtp/225.1.8.170:9268$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",嘉佳卡通
+http://106.116.241.106:9999/rtp/239.254.201.201:7269$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",嘉佳卡通
+http://115.171.216.84:4000/rtp/225.1.8.170:9268$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",中国交通
+http://114.254.33.207:18888/rtp/239.3.1.188:8001$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",中国交通
+http://144.255.16.170:6688/udp/239.21.1.115:5002$山东电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",中国交通
+http://106.116.241.106:9999/rtp/239.254.201.110:5181$河北电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数4K
+http://114.254.33.207:18888/rtp/239.3.1.236:2000$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数4K
+http://115.171.80.79:1688/rtp/225.1.8.80:2000$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数4K
+http://115.171.216.58:4000/rtp/225.1.8.80:2000$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数4K
+http://115.171.216.84:4000/rtp/225.1.8.80:2000$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数星影
+http://114.254.33.207:18888/rtp/239.3.1.94:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数星影
+http://115.171.80.79:1688/rtp/225.1.8.254:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数星影
+http://115.171.216.58:4000/rtp/225.1.8.254:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数星影
+http://115.171.216.84:4000/rtp/225.1.8.254:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动作影院
+http://114.254.33.207:18888/rtp/239.3.1.92:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动作影院
+http://115.171.80.79:1688/rtp/225.1.8.252:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动作影院
+http://115.171.216.58:4000/rtp/225.1.8.252:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动作影院
+http://115.171.216.84:4000/rtp/225.1.8.252:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数喜剧影院
+http://114.254.33.207:18888/rtp/239.3.1.91:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数喜剧影院
+http://115.171.80.79:1688/rtp/225.1.8.251:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数喜剧影院
+http://115.171.216.58:4000/rtp/225.1.8.251:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数喜剧影院
+http://115.171.216.84:4000/rtp/225.1.8.251:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数家庭影院
+http://114.254.33.207:18888/rtp/239.3.1.93:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数家庭影院
+http://115.171.80.79:1688/rtp/225.1.8.253:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数家庭影院
+http://115.171.216.58:4000/rtp/225.1.8.253:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数家庭影院
+http://115.171.216.84:4000/rtp/225.1.8.253:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数经典电影
+http://114.254.33.207:18888/rtp/239.3.1.195:9024$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数经典电影
+http://115.171.80.79:1688/rtp/225.1.8.203:9024$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数经典电影
+http://115.171.216.58:4000/rtp/225.1.8.203:9024$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数经典电影
+http://115.171.216.84:4000/rtp/225.1.8.203:9024$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数热播剧场
+http://114.254.33.207:18888/rtp/239.3.1.194:9020$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数热播剧场
+http://115.171.80.79:1688/rtp/225.1.8.202:9020$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数热播剧场
+http://115.171.216.58:4000/rtp/225.1.8.202:9020$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数热播剧场
+http://115.171.216.84:4000/rtp/225.1.8.202:9020$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数军旅剧场
+http://114.254.33.207:18888/rtp/239.3.1.68:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数军旅剧场
+http://115.171.80.79:1688/rtp/225.1.8.228:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数军旅剧场
+http://115.171.216.58:4000/rtp/225.1.8.228:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数军旅剧场
+http://115.171.216.84:4000/rtp/225.1.8.228:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数城市剧场
+http://114.254.33.207:18888/rtp/239.3.1.67:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数城市剧场
+http://115.171.80.79:1688/rtp/225.1.8.227:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数城市剧场
+http://115.171.216.58:4000/rtp/225.1.8.227:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数城市剧场
+http://115.171.216.84:4000/rtp/225.1.8.227:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数武侠剧场
+http://114.254.33.207:18888/rtp/239.3.1.90:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数古装剧场
+http://115.171.80.79:1688/rtp/225.1.8.229:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数古装剧场
+http://115.171.216.58:4000/rtp/225.1.8.229:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数古装剧场
+http://115.171.216.84:4000/rtp/225.1.8.229:4120$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数魅力时尚
+http://114.254.33.207:18888/rtp/239.3.1.196:9012$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数魅力时尚
+http://115.171.80.79:1688/rtp/225.1.8.204:9012$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数魅力时尚
+http://115.171.216.58:4000/rtp/225.1.8.204:9012$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数魅力时尚
+http://115.171.216.84:4000/rtp/225.1.8.204:9012$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数少儿动画
+http://114.254.33.207:18888/rtp/239.3.1.199:9000$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数少儿动画
+http://115.171.80.79:1688/rtp/225.1.8.207:9000$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数少儿动画
+http://115.171.216.58:4000/rtp/225.1.8.207:9000$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数少儿动画
+http://115.171.216.84:4000/rtp/225.1.8.207:9000$北京电信31
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动画
+http://114.254.33.207:18888/rtp/239.3.1.80:4120$北京联通11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动画
+http://115.171.80.79:1688/rtp/225.1.8.240:4120$北京电信11
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动画
+http://115.171.216.58:4000/rtp/225.1.8.240:4120$北京电信21
+#EXTINF:-1 group-title="数字频道" tvg-logo="",华数动画
+http://115.171.216.84:4000/rtp/225.1.8.240:4120$北京电信31
