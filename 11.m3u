@@ -196,6 +196,46 @@ https://stream1.freetv.fun/abc-news-australia-1.m3u8
 https://stream1.freetv.fun/abc-news-australia-2.ctv
 #EXTINF:-1 group-title="" tvg-logo="",xing-ti-yu-6
 https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
+#EXTINF:180,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:40,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:118,ABC News Australia
+https://stream1.freetv.fun/abc-news-australia-1.m3u8
+#EXTINF:118,ABC News Australia
+https://stream1.freetv.fun/abc-news-australia-2.ctv
+#EXTINF:118,xing-ti-yu-6
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
+#EXTINF:18,BBC AMERICA
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:50,BBC NEWS
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:18,BBC AMERICA
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:50,BBC NEWS
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:58,CAT
+#EXTVLCOPT:network-caching=1000
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:60,FOX NEWS
+#EXTVLCOPT:network-caching=1000
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:290,Radio
+#EXTVLCOPT:network-caching=1000
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:60,LIVE NOW FOX
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:102,NHK BS
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:60,CAT
+#EXTVLCOPT:network-caching=1000
+https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
 http://144.255.16.170:6688/udp/239.21.1.120:5002$山东电信11
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
